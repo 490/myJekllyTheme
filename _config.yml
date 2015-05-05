@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://490.github.io
+name: 北航民乐团
+qq: 490389752
+email: buaa_minyue@126.com
+duoshuo: 北航民乐团
+weibo: 2614536811
+pygments: true
+safe: true
+paginate: 20
+about: "请关注我们的微博吧^_^"
